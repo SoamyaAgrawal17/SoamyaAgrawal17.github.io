@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a Software Engineer with an experience of about 3 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.
+I am a Software Engineer with an experience of about 3 years. 
 
 ---
 
@@ -18,32 +18,41 @@ I am a Software Engineer with an experience of about 3 years. I have hands on ex
 
 ## Experience
 
-### **SENIOR FRONTEND DEVELOPER**
-### MIRO
+### **Software Engineer**
+### Google
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+Working with Data PLS team. 
 
-### **FRONTEND DEVELOPER**
-### Booking.com
+### **Software Development Engineer Intern**
+### Amazon Lab126
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
+Worked with Wi-Fi Connectivity team
 
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
+### **Software Development Engineer**
+### Flipkart Internet Private Limited
 
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
+Worked with Pricing and Promotions team. 
+
+### **Software Development Intern**
+### Flipkart Internet Private Limited
+
+Worked with Pricing and Promotions team.
 
 ---
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **Columbia University**
+### Masters in Computer Science (2020 - 2021)
+GPA 3.72/4.00
+
+### **Birla Institute of Technology and Science, Pilani**
+### B.E. (Hons.) in Computer Science (2014 - 2018)
+GPA 8.84/10.00
 
 ---
 
 ### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
+Apart from being a software engineer, I like ... 
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
+
